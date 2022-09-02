@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7613c1b6-b230-4481-9bc1-e58acd2e2d39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_unknown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100.same-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/101.symmetric-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/102.binary-tree-level-order-traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/104.maximum-depth-of-binary-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/105.construct-binary-tree-from-preorder-and-inorder-traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/108.convert-sorted-array-to-binary-search-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/110.balanced-binary-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/111.minimum-depth-of-binary-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/112.path-sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/144.binary-tree-preorder-traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/145.binary-tree-postorder-traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1791.find-center-of-star-graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1971.find-if-path-exists-in-graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/226.invert-binary-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230.kth-smallest-element-in-a-bst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/235.lowest-common-ancestor-of-a-binary-search-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/236.lowest-common-ancestor-of-a-binary-tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.longest-substring-without-repeating-characters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/341.flatten-nested-list-iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5.longest-palindromic-substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.zigzag-conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7.reverse-integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/997.find-the-town-judge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CF1556A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CF1556B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreateGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFSRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DiameterOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GraphShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IterativeInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCMergeSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCSquareOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCTwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCValidSudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SieveOfEratosthenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/AddtwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/FirstUniqueCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/LongestSubstringWithoutCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/ReduceArraySizeToHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/UniqueMorseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DQHbB5879XW0C1xKq9UBAZ828i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.java.com.example.leetcodeproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ReduceArraySizeToHalf">
+    <configuration name="AddtwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.example.leetcodeproject.AddtwoNumbers" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.example.leetcodeproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstUniqueCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.example.leetcodeproject.FirstUniqueCharacter" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.example.leetcodeproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstringWithoutCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.com.example.leetcodeproject.LongestSubstringWithoutCharacters" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.com.example.leetcodeproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReduceArraySizeToHalf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.leetcodeproject.ReduceArraySizeToHalf" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.leetcodeproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.leetcodeproject.LongestSubstringWithoutCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.leetcodeproject.LongestSubstringWithoutCharacters" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.leetcodeproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReduceArraySizeToHalf" />
+        <item itemvalue="Application.com.example.leetcodeproject.LongestSubstringWithoutCharacters" />
+        <item itemvalue="Application.LongestSubstringWithoutCharacters" />
+        <item itemvalue="Application.AddtwoNumbers" />
+        <item itemvalue="Application.FirstUniqueCharacter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7613c1b6-b230-4481-9bc1-e58acd2e2d39" name="Changes" comment="" />
+      <created>1660624460657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660624460657</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/AddtwoNumbers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/AddtwoNumbers.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/AddtwoNumbers.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/AddtwoNumbers.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/LongestSubstringWithoutCharacters.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/LongestSubstringWithoutCharacters.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/ReduceArraySizeToHalf.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/leetcodeproject/ReduceArraySizeToHalf.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
